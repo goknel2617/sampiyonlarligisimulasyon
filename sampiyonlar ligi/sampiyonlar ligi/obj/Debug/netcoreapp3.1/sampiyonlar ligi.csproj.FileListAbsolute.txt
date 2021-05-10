@@ -1,0 +1,15 @@
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\bin\Debug\netcoreapp3.1\sampiyonlar ligi.exe
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\bin\Debug\netcoreapp3.1\sampiyonlar ligi.deps.json
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\bin\Debug\netcoreapp3.1\sampiyonlar ligi.runtimeconfig.json
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\bin\Debug\netcoreapp3.1\sampiyonlar ligi.runtimeconfig.dev.json
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\bin\Debug\netcoreapp3.1\sampiyonlar ligi.dll
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\bin\Debug\netcoreapp3.1\sampiyonlar ligi.pdb
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar ligi.csprojAssemblyReference.cache
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar_ligi.Form1.resources
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar ligi.csproj.GenerateResource.cache
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar ligi.AssemblyInfoInputs.cache
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar ligi.AssemblyInfo.cs
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar ligi.csproj.CoreCompileInputs.cache
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar ligi.dll
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar ligi.pdb
+C:\Users\gozgu\source\repos\sampiyonlar ligi\sampiyonlar ligi\obj\Debug\netcoreapp3.1\sampiyonlar ligi.genruntimeconfig.cache
